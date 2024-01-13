@@ -1,4 +1,6 @@
-Sadece merak ediyorum! Bu nedenle yazılım gibi okyanus kadar geniş olan, her zaman "yeni bilginin" üretildiği ve bu üretilen bilginin takibi/öğrenilmesi gereken bir alan olmasından kaynaklı olarak  
+<h2>Sadece merak ediyorum! </h2> 
+<img src="thinking-child-boy-on-black-600nw-1754848844.webp">
+Bu nedenle yazılım gibi okyanus kadar geniş olan, her zaman "yeni bilginin" üretildiği ve bu üretilen bilginin takibi/öğrenilmesi gereken bir alan olmasından kaynaklı olarak  
 bu maceraya frontend öğrenmeyle başladım.
 Öğrendikçe heyecanlanıyorum; heyecanlandıkça daha fazla öğrenme isteğim var. 
 
