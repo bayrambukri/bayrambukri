@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Bu nedenle yazılım gibi okyanus kadar geniş olan, her zaman "yeni bilginin" üretildiği ve bu üretilen bilginin takibi/öğrenilmesi gereken bir alan olmasından kaynaklı olarak  
-bu maceraya frontend öğrenmeyle başladım. Sonrasında backend alanı var. sonrasında tabii ki mobil var.</br>
+Bu nedenle yazılım gibi okyanus kadar geniş olan, her zaman "yeni bilginin" üretildiği ve bu üretilen bilginin takibi/öğrenilmesi gereken bir alan olmasından kaynaklı olarak yazılım alanına yöneldim.
+Bu maceraya <strong>frontend ile başladım. Sonraki hedefte ise <b> backend alanı var. sonrasında tabii ki mobil var.</br>
 Öğrendikçe heyecanlanıyorum; heyecanlandıkça daha fazla öğrenme isteğim var. </br>
 Yolun başındayım sonu hayrola inşallah!
