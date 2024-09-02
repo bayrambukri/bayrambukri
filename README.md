@@ -1,6 +1,30 @@
-Merhabalar ben Bayram BUKRİ,
-Merak ederek yola çıktığım yazılım serüveninde piyasanın revaçta olan teknolojisi react js teknolojilerinde uzmanlaşarak ilermeye devam ediyorum. 
-İşbirliği için: bukribayram@gmail.com
+# Merhaba, Ben Bayram BUKRİ! 👋
+
+### 👨‍💻 Hakkımda
+Ben Bayram BUKRİ, Türkiye'de yaşayan bir  Frontend Developer. Yazılım geliştirmeye olan tutkum ve isitkrarlı öğrenme arzusu ile her gün kendimi geliştiriyorum.  React,Redux,Typescript gibi teknolojilerle çalışmaktan keyif alıyorum ve projelerimde bu teknolojileri kullanmaya özen gösteriyorum.
+
+### 🚀 İlgi Alanlarım
+- **Web Geliştirme**: Modern web teknolojileriyle dinamik ve kullanıcı dostu web uygulamaları geliştirmek.
+
+### 🛠️ Kullandığım Teknolojiler
+- **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS,TypeScript
+- **Araçlar ve Diğerleri**: Git, GitHub, VSCode
+
+### 🌱 Öğrenmeye Devam Ettiklerim
+Şu anda React Native'e yoğunlaşacağım. Her zaman yeni şeyler öğrenmeye açığım ve kendimi geliştirmek için farklı projeler üzerinde çalışıyorum.
+
+### 📫 Bana Ulaşın
+- **Email**: bukribayram@gmail.com
+- **LinkedIn**: [ [LinkedIn Profilinizin Bağlantısı](https://linkedin.com/in/username)](https://www.linkedin.com/in/bayram-b%C3%BCkri-7176a5249/)
+
+
+### 📈 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+Teşekkür ederim! Bu profil size beni tanıtmak için küçük bir pencere açtı. Daha fazlası için projelerime göz atabilir veya benimle iletişime geçebilirsiniz.
+
 
 
 
