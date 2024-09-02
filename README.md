@@ -10,8 +10,6 @@ Ben Bayram BUKRİ, Türkiye'de yaşayan bir  Frontend Developer. Yazılım geli�
 - **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS,TypeScript
 - **Araçlar ve Diğerleri**: Git, GitHub, VSCode
 
-### 🌱 Öğrenmeye Devam Ettiklerim
-Şu anda React Native'e yoğunlaşacağım. Her zaman yeni şeyler öğrenmeye açığım ve kendimi geliştirmek için farklı projeler üzerinde çalışıyorum.
 
 ### 📫 Bana Ulaşın
 - **Email**: bukribayram@gmail.com
