@@ -10,14 +10,6 @@ Ben Bayram BUKRİ, Türkiye'de yaşayan bir  Frontend Developer. Yazılım geli�
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, React, Redux, Formik, TailwindCSS,TypeScript, Tanstack.
 - **Araçlar ve Diğerleri**: Git, GitHub, VSCode
 
-
-### 📫 Bana Ulaşın
-- **Email**: bukribayram@gmail.com
-- **LinkedIn**: [ [LinkedIn Profilinizin Bağlantısı](https://linkedin.com/in/username)](https://www.linkedin.com/in/bayram-b%C3%BCkri-7176a5249/)
-
-
-
-
  💻 Tech Stack:
 
  
@@ -31,6 +23,10 @@ Ben Bayram BUKRİ, Türkiye'de yaşayan bir  Frontend Developer. Yazılım geli�
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+### 📫 Bana Ulaşın
+- **Email**: bukribayram@gmail.com
+- **LinkedIn**: [ [LinkedIn Profilinizin Bağlantısı](https://linkedin.com/in/username)](https://www.linkedin.com/in/bayram-b%C3%BCkri-7176a5249/)
 
 Teşekkür ederim! Bu profil size beni tanıtmak için küçük bir pencere açtı. Daha fazlası için projelerime göz atabilir veya benimle iletişime geçebilirsiniz.
 
