@@ -7,7 +7,7 @@ Ben Bayram BUKRİ, Türkiye'de yaşayan bir  Frontend Developer. Yazılım geli�
 - **Web Geliştirme**: Modern web teknolojileriyle dinamik ve kullanıcı dostu web uygulamaları geliştirmek.
 
 ### 🛠️ Kullandığım Teknolojiler
-- **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS,TypeScript
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React, Redux, Formik, TailwindCSS,TypeScript, Tanstack.
 - **Araçlar ve Diğerleri**: Git, GitHub, VSCode
 
 
