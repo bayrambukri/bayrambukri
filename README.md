@@ -48,7 +48,7 @@ Ben Bayram BUKRİ, Türkiye'de yaşayan bir  Frontend Developer. Yazılım geli�
 
 ### 📫 Bana Ulaşın
 - **Email**: bukribayram@gmail.com
-- **LinkedIn**: [ [LinkedIn Profilinizin Bağlantısı](https://linkedin.com/in/username)](https://www.linkedin.com/in/bayram-b%C3%BCkri-7176a5249/)
+- **LinkedIn**:(https://www.linkedin.com/in/bayram-b%C3%BCkri-7176a5249/)
 
 Teşekkür ederim! Bu profil size beni tanıtmak için küçük bir pencere açtı. Daha fazlası için projelerime göz atabilir veya benimle iletişime geçebilirsiniz.
 
