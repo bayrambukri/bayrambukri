@@ -10,6 +10,9 @@ Hello, I'm Bayram BUKRI! 🤝 👋
 💻 Tech Stack: JavaScript, HTML5, TypeScript, Netlify, Google Cloud, Vercel, Firebase, Bootstrap, Redux, React Hook Form, React Router, React, SASS, Vite, TailwindCSS, Firebase, GitHub.
 
 📫 Contact Me Email: bukribayram@gmail.com
+
+
+
 LinkedIn: [Link to Your LinkedIn Profile](https://www.linkedin.com/in/bayram-b%C3%BCkri-7176a5249/)
 
 Thank you! This profile gives you a small window into who I am. You can check out my projects or contact me for more.
