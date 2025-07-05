@@ -1,25 +1,3 @@
-
-Hello, I'm Bayram BUKRI! 🤝 👋
-
-👨‍💻 About Me I'm Bayram BUKRI, a Frontend Developer living in Turkey. With my passion for software development and a consistent desire to learn, I work on improving myself every day. I enjoy working with technologies like JavaScript, React, Redux, and TypeScript, and I make sure to use these technologies in my projects.
-
-🚀 My Interests Web Development: Developing dynamic and user-friendly web applications with modern web technologies.
-
-🛠️ Technologies I Use Frontend: HTML, CSS, Bootstrap, JavaScript, React, Redux, Formik, TailwindCSS, TypeScript, Tanstack. Tools and Others: Git, GitHub, VSCode.
-
-💻 Tech Stack: JavaScript, HTML5, TypeScript, Netlify, Google Cloud, Vercel, Firebase, Bootstrap, Redux, React Hook Form, React Router, React, SASS, Vite, TailwindCSS, Firebase, GitHub.
-
-📫 Contact Me Email: bukribayram@gmail.com
-
-
-
-LinkedIn: [Link to Your LinkedIn Profile](https://www.linkedin.com/in/bayram-b%C3%BCkri-7176a5249/)
-
-Thank you! This profile gives you a small window into who I am. You can check out my projects or contact me for more.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 # Merhaba, Ben Bayram BUKRİ!  🤝 👋
 
 ### 👨‍💻 Hakkımda
