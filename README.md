@@ -1,6 +1,5 @@
 # Merhaba, Ben Bayram BUKRİ!  🤝 👋
 
-### 👨‍💻 Hakkımda
 Ben Bayram BUKRİ, Türkiye'de yaşayan bir  Frontend Developer. Yazılım geliştirmeye olan tutkum ve isitkrarlı öğrenme arzusu ile her gün kendimi geliştiriyorum. Javascript, React, Redux, Typescript gibi teknolojilerle çalışmaktan keyif alıyorum ve projelerimde bu teknolojileri kullanmaya özen gösteriyorum.
 
 ### 🚀 İlgi Alanlarım
